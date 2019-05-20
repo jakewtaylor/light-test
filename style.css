@@ -49,6 +49,11 @@ html, body {
     letter-spacing: 2px;
 }
 
+.main .content svg {
+    color: var(--primary);
+    mix-blend-mode: difference;
+}
+
 .lamp-container {
     position: relative;
     color: var(--light-color);

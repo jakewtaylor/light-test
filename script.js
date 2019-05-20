@@ -5,7 +5,7 @@
     const controller = new ScrollMagic.Controller();
 
     const scene = new ScrollMagic.Scene({
-        duration: window.innerHeight * 2,
+        duration: window.innerHeight,
         offset: 1,
     });
 
