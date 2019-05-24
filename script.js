@@ -6,7 +6,7 @@
 
     const scene = new ScrollMagic.Scene({
         duration: window.innerHeight,
-        offset: 1,
+        offset: 0,
     });
 
     scene.setPin('#pinned')
